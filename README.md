@@ -103,8 +103,8 @@ local c = ws.CurrentCamera
 local function SendNotification(text)
     Notification:Notify(
         {Title = "Solar Support", Description = "Gult >< - "..text},
-        {OutlineColor = Color3.fromRGB(255,215,0),Time = 2, Type = "image"},
-        {Image = "rbxassetid://6034509993", ImageColor = Color3.fromRGB(255,215,0)}
+        {OutlineColor = Color3.fromRGB(160,160,160),Time = 2, Type = "image"},
+        {Image = "rbxassetid://6034509993", ImageColor = Color3.fromRGB(160,160,160)}
     )
 end 
 
