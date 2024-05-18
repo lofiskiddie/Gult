@@ -77,8 +77,7 @@ local vect2 = Vector2.new
 local cnew = CFrame.new
 
 -- // Libraries
-local NotificationHolder = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Module.Lua"))()
-local Notification = loadstring(game:HttpGet("https://pastebin.com/raw/n1CbVa6y"))()
+local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/Eazvy/UILibs/main/Notifications/BocusLuke/Preview"))()
 
 -- // Services
 local uis = game:GetService("UserInputService")
